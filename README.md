@@ -1,2 +1,4 @@
 # hello-world
-Test github repository
+
+
+Hi! My name is Tim. This is a test of commit changes.
